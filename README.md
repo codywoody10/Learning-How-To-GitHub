@@ -1,6 +1,8 @@
-## Welcome to GitHub Pages
+### If you want to know more about me (and markdowns), you found the spot. 
 
 You can use the [editor on GitHub](https://github.com/codywoody10/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Here, I'm attempting to insert a link to a City of Tucson StoryMap about the [Santa Cruz River Heritage](https://arcg.is/1O5j44) and hopefully it works. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -12,7 +14,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Cody is da bomb
-## Header 2
+## Things will show up here when you edit the README
 ### Header 3
 
 - Bulleted
@@ -35,3 +37,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Or if you need further assistance on GitHub, contact the [UA Library](https://libguides.library.arizona.edu/GISspecialists) to arrange a one-on-one meeting!
